@@ -15,6 +15,18 @@
 		6AB98A702247358B007ED25B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AB98A6E2247358B007ED25B /* LaunchScreen.storyboard */; };
 		6AB98A7B2247358B007ED25B /* realwwdcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB98A7A2247358B007ED25B /* realwwdcTests.swift */; };
 		6AB98A862247358B007ED25B /* realwwdcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB98A852247358B007ED25B /* realwwdcUITests.swift */; };
+		6AB98A942247DC0E007ED25B /* snare.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6AB98A932247DC0E007ED25B /* snare.mp3 */; };
+		6AB98A962247E073007ED25B /* kick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6AB98A952247E073007ED25B /* kick.wav */; };
+		6AB98A982247E1EB007ED25B /* floorTom.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6AB98A972247E1EB007ED25B /* floorTom.wav */; };
+		6AB98A9A2247E349007ED25B /* midTom.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6AB98A992247E349007ED25B /* midTom.wav */; };
+		6AB98A9C2247E510007ED25B /* hiTom.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6AB98A9B2247E510007ED25B /* hiTom.wav */; };
+		6AB98A9E2247E60B007ED25B /* crash.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6AB98A9D2247E60B007ED25B /* crash.wav */; };
+		6AB98AA02247E801007ED25B /* ride.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6AB98A9F2247E801007ED25B /* ride.wav */; };
+		6AB98AA22247E93D007ED25B /* hiHat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6AB98AA12247E93C007ED25B /* hiHat.mp3 */; };
+		6AF5495822483849001C8F5A /* drumTop.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF5495722483849001C8F5A /* drumTop.png */; };
+		6AF5495C22483C32001C8F5A /* cymbal.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF5495B22483C32001C8F5A /* cymbal.png */; };
+		6AF5495E22483F2D001C8F5A /* gregorianChant.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6AF5495D22483F2D001C8F5A /* gregorianChant.wav */; };
+		6AF5496022483FEB001C8F5A /* gregorianChant.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF5495F22483FEB001C8F5A /* gregorianChant.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +61,18 @@
 		6AB98A812247358B007ED25B /* realwwdcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = realwwdcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AB98A852247358B007ED25B /* realwwdcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = realwwdcUITests.swift; sourceTree = "<group>"; };
 		6AB98A872247358B007ED25B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AB98A932247DC0E007ED25B /* snare.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = snare.mp3; path = ../../../Downloads/snare.mp3; sourceTree = "<group>"; };
+		6AB98A952247E073007ED25B /* kick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = kick.wav; path = ../../../Downloads/kick.wav; sourceTree = "<group>"; };
+		6AB98A972247E1EB007ED25B /* floorTom.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = floorTom.wav; path = ../../../Downloads/floorTom.wav; sourceTree = "<group>"; };
+		6AB98A992247E349007ED25B /* midTom.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = midTom.wav; path = ../../../Downloads/midTom.wav; sourceTree = "<group>"; };
+		6AB98A9B2247E510007ED25B /* hiTom.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = hiTom.wav; path = ../../../Downloads/hiTom.wav; sourceTree = "<group>"; };
+		6AB98A9D2247E60B007ED25B /* crash.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = crash.wav; path = ../../../Downloads/crash.wav; sourceTree = "<group>"; };
+		6AB98A9F2247E801007ED25B /* ride.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ride.wav; path = ../../../Downloads/ride.wav; sourceTree = "<group>"; };
+		6AB98AA12247E93C007ED25B /* hiHat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = hiHat.mp3; path = ../../../Downloads/hiHat.mp3; sourceTree = "<group>"; };
+		6AF5495722483849001C8F5A /* drumTop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drumTop.png; path = ../../../Downloads/drumTop.png; sourceTree = "<group>"; };
+		6AF5495B22483C32001C8F5A /* cymbal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cymbal.png; path = ../../../Downloads/cymbal.png; sourceTree = "<group>"; };
+		6AF5495D22483F2D001C8F5A /* gregorianChant.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = gregorianChant.wav; path = ../../../Downloads/gregorianChant.wav; sourceTree = "<group>"; };
+		6AF5495F22483FEB001C8F5A /* gregorianChant.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gregorianChant.png; path = ../../../Downloads/gregorianChant.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +129,18 @@
 				6AB98A6C2247358B007ED25B /* Assets.xcassets */,
 				6AB98A6E2247358B007ED25B /* LaunchScreen.storyboard */,
 				6AB98A712247358B007ED25B /* Info.plist */,
+				6AB98A9F2247E801007ED25B /* ride.wav */,
+				6AF5495F22483FEB001C8F5A /* gregorianChant.png */,
+				6AF5495D22483F2D001C8F5A /* gregorianChant.wav */,
+				6AF5495B22483C32001C8F5A /* cymbal.png */,
+				6AB98AA12247E93C007ED25B /* hiHat.mp3 */,
+				6AB98A9D2247E60B007ED25B /* crash.wav */,
+				6AB98A952247E073007ED25B /* kick.wav */,
+				6AB98A9B2247E510007ED25B /* hiTom.wav */,
+				6AB98A992247E349007ED25B /* midTom.wav */,
+				6AB98A972247E1EB007ED25B /* floorTom.wav */,
+				6AB98A932247DC0E007ED25B /* snare.mp3 */,
+				6AF5495722483849001C8F5A /* drumTop.png */,
 				6AB98A6922473588007ED25B /* realwwdc.xcdatamodeld */,
 			);
 			path = realwwdc;
@@ -232,9 +268,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AF5495E22483F2D001C8F5A /* gregorianChant.wav in Resources */,
+				6AB98AA02247E801007ED25B /* ride.wav in Resources */,
+				6AF5496022483FEB001C8F5A /* gregorianChant.png in Resources */,
+				6AB98A9E2247E60B007ED25B /* crash.wav in Resources */,
+				6AB98A9A2247E349007ED25B /* midTom.wav in Resources */,
+				6AB98A962247E073007ED25B /* kick.wav in Resources */,
 				6AB98A702247358B007ED25B /* LaunchScreen.storyboard in Resources */,
+				6AB98AA22247E93D007ED25B /* hiHat.mp3 in Resources */,
 				6AB98A6D2247358B007ED25B /* Assets.xcassets in Resources */,
 				6AB98A6822473588007ED25B /* Main.storyboard in Resources */,
+				6AB98A982247E1EB007ED25B /* floorTom.wav in Resources */,
+				6AF5495C22483C32001C8F5A /* cymbal.png in Resources */,
+				6AF5495822483849001C8F5A /* drumTop.png in Resources */,
+				6AB98A9C2247E510007ED25B /* hiTom.wav in Resources */,
+				6AB98A942247DC0E007ED25B /* snare.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +485,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = D992B38HH5;
 				INFOPLIST_FILE = realwwdc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -454,6 +503,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = D992B38HH5;
 				INFOPLIST_FILE = realwwdc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
